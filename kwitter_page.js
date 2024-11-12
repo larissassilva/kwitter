@@ -67,7 +67,9 @@ localStorage.removeItem("user_name");
 localStorage.removeItem("room_name");
 window.location.replace("index.html");
 }
-
+function voltar(){
+window.location.replace("kwitter_room.html");
+}
 
 
 
